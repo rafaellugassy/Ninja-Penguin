@@ -1,0 +1,17 @@
+Make new animations - check
+changed next button to a press anywhere button - check
+Make new characters - check
+Make character shop - check
+make it so you can accumulate points when you play - check
+Add music
+Add sound effects
+Make better win/lose screens
+Update Tutorial so you can click to skip - check
+Learn how to do an online HighScore thing
+
+
+Add Final Boss stage, where you play a normal round, then there is an animation where he's all like you cannot beat me alone, and Penguin says something
+along the lines of "I'm not alone" and then all the gray / maybe blue, penguins show up, then you play a minigame where all you have to do is spam tap
+on the screen.  After you've accumalated enough, then it goes to a cut scene, where Penguin is basically Captain falcon, the music plays (from cpt
+falcon) and then he attacks, and penguin loses his hat (to reveal brown hair underneath), and then they explode in some weird explosion thing, and then the
+music fades away, and it fades in saying, "thank you for playing."
